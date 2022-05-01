@@ -1,0 +1,10 @@
+.MuiButton-root.add-task-button {
+    color: rgb(50, 224, 50);
+    color: rgb(230, 219, 219);
+    transition: .4s;
+    padding: 1px 4px;
+}
+
+.MuiButton-root.add-task-button:hover {
+    background-color: rgba(33, 18, 18, 0.959);
+}
