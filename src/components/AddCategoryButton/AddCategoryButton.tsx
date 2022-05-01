@@ -14,7 +14,7 @@ export const AddCategoryButton = (props: Props) => {
             color="success"
             onClick={() => props.addCategory(props.categoryTitleToAdd)}
         >
-            Dodaj Kategorię
+            Add category
         </Button >
     )
 }
